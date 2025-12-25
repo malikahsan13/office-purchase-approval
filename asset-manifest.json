@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/malikahsan13/office-purchase-approval/static/css/main.553e12a5.css",
+    "main.js": "/malikahsan13/office-purchase-approval/static/js/main.3825f461.js",
+    "static/js/453.aac383d9.chunk.js": "/malikahsan13/office-purchase-approval/static/js/453.aac383d9.chunk.js",
+    "index.html": "/malikahsan13/office-purchase-approval/index.html",
+    "main.553e12a5.css.map": "/malikahsan13/office-purchase-approval/static/css/main.553e12a5.css.map",
+    "main.3825f461.js.map": "/malikahsan13/office-purchase-approval/static/js/main.3825f461.js.map",
+    "453.aac383d9.chunk.js.map": "/malikahsan13/office-purchase-approval/static/js/453.aac383d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.553e12a5.css",
+    "static/js/main.3825f461.js"
+  ]
+}
